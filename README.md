@@ -1,6 +1,6 @@
 ENTCOIN - ITC
 
-![ENTCOIN](https://www.btw18.com/Uploads/Public/Uploads/2016-11-08/582141523c5ea.png)
+![ENTCOIN](https://camo.githubusercontent.com/2b958b0ddafa411738728938282342d519925c0c/68747470733a2f2f7777772e62747731382e636f6d2f55706c6f6164732f5075626c69632f55706c6f6164732f323031362d31312d30382f353832313431353233633565612e706e67)
 
 ENTCOIN is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial  5500w coins, no PoW mining will get any coins. The 1 billion coins will be distributed equally to 1000 individuals with 1 million coins each, completely free based on the subscriptions in facebook, cryptocointalk and ecoiner website. 
 
